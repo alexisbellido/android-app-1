@@ -73,6 +73,5 @@ public class MainActivity extends ActionBarActivity {
     	intent.putExtra(EXTRA_MESSAGE, message);
     	startActivity(intent);
     }
-     
 
 }
